@@ -1,0 +1,22 @@
+{
+  "name": "new-portfolio-generator",
+  "version": "1.0.0",
+  "description": "\"a really cool app\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeevanthapa1987/new-portfolio-generator.git"
+  },
+  "author": "jeevan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeevanthapa1987/new-portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/jeevanthapa1987/new-portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  }
+}
